@@ -1,4 +1,4 @@
-Dobrovolny domaci ukol do programovani 2
+dobrovolny domaci ukol do programovani 2
 
 webova stranka o nejake postave ze hry, filmu atd.
 
